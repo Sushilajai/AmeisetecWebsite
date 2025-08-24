@@ -1,0 +1,228 @@
+{
+  "Header": {
+    "title": "Your Sustainability Partner",
+    "paragraph": "We believe in creating solutions that don’t just work today but also protect tomorrow. As your trusted sustainability partner, we focus on eco-friendly practices, carbon reduction, and long-term value creation for businesses and communities."
+  },
+  "About": {
+    "paragraph": "We, at AmeiseTech are integral part of circular economy, building solutions on principles of sustainability, providing benefits of effective energy management solution with the use of Second life batteries. This is a unique concept as we are reusing the asset which has got residual value, which is rich in energy content, but lived its life as a battery for a EV and now ready to be used for stationary application, to provide energy source for EV charging Infra, manage peak load at Grid or for various Industry and commercial applications where Back up power is needed. We as AmeiseTech acts as a System Integrator, building the right solution, in terms of Technical parameters and commercial effectiveness. We provide state of art solution which consists of Battery Modules, Invertors, convertors', Battery Management system, Demand Management solution etc. Based on our previous experience of working with Cities and Urban local bodies , Grid operators etc, we see demand for a sustainable & resilient solution. As part of our solution deployment, We would conduct Feasibility analysis, provide Training, Hand holding and Program Management and Operations & Maintenance support.",
+    "IIndparagraph": "In addition to system Integration services we offer consulting services for Smart Cities, Digital Twin, Smart Transportation.",
+    "IIIndparagraph": "Our past experience in Smart cities domain, working with Govt as a System integrator which involves activities right from Vision statement, Feasibility study, Stakeholder alignment, DPR preparation and finally program Management. Experience of working with various agencies like, Consulting firm, Master planner, Fuding agencies, Global OEMs, etc.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Fun Activites",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Rewards and recognition",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Work Culture",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Achievements",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Milestone",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Upcoming events",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-refresh o",
+      "name": "Green Coding",
+      "text": "Green coding involves adopting less energy-intensive coding principles into the DevOps lifecycle."
+    },
+    {
+      "icon": "fa fa-cloud o",
+      "name": "Cloud development",
+      "text": "Empowering businesses with cloud migration, deployment, and optimization services to ensure flexibility, scalability."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Banking and Finance",
+      "text": "We empower financial institutions with secure, innovative, and future-ready technology."
+    },
+    {
+      "icon": "fa fa-medkit",
+      "name": "Insurence",
+      "text": "We provide insurance companies with cutting-edge solutions to enhance customer experience and streamline operations."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Ecommerce",
+      "text": "We revolutionize the e-commerce landscape with scalable, secure, and user-friendly platforms."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "CRM",
+      "text": "We help businesses enhance customer relationships and drive sales with our innovative CRM solutions."
+    },
+    {
+      "icon": "fa fa-github",
+      "name": "GitHub",
+      "text": "GitHub is a platform for version control and collaboration, allowing developers to work together on projects from anywhere."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "AI",
+      "text": "We leverage AI technologies to drive innovation and improve efficiency across various industries."
+    }
+
+  ],
+   "cunsulConsultingservices": [
+    {
+      "icon": "fa fa-refresh o",
+      "name": "Green Coding",
+      "text": "Green coding involves adopting less energy-intensive coding principles into the DevOps lifecycle."
+    },
+    {
+      "icon": "fa fa-cloud o",
+      "name": "Cloud development",
+      "text": "Cloud advancements and a cloud development mindset have ushered in a new era, and among the new fields and advancements is the creation of industry-specific clouds."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Banking and Finance",
+      "text": "We empower financial institutions with secure, innovative, and future-ready technology."
+    },
+    {
+      "icon": "fa fa-medkit",
+      "name": "Insurence",
+      "text": "We provide insurance companies with cutting-edge solutions to enhance customer experience and streamline operations."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Ecommerce",
+      "text": "We revolutionize the e-commerce landscape with scalable, secure, and user-friendly platforms."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "CRM",
+      "text": "We help businesses enhance customer relationships and drive sales with our innovative CRM solutions."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/Jayant-Kohale-pic.jpeg",
+      "text": "\"Under the visionary leadership of Jayant Kohale, we have seen remarkable growth and innovation. His commitment to excellence and sustainable solutions inspires our entire team every day.\"",
+      "name": "Jayant Kohale"
+    },
+    {
+      "img": "img/testimonials/ab-ovo-logo-with-pay-off.webp",
+      "text": "\"AmeiseTech offers services in Sustainable Digital Transformation.  We are an integral part of the Circular economy. Sustainability is a core of our business activities.We support organisations in their Design, engineering, and IT transformation needs. We collaborate with our partners in Feasibility Studies, program management, Offshore Technology, and engineering support. Our work revolves around Smart Infra, Digital Twin.\"",
+      "name": "Willem Jan Groenewoud\nCEO\n"
+    }
+  ],
+  "Global_Presence": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Mumbai, India ",
+    "phone": "+1 123 456 1234",
+    "email": "Jayant@AmeiseTec.com",
+    "Linkedin": "https://www.linkedin.com/company/ameisetech/posts/?feedView=all",
+    "twitter": "https://x.com/AmeiseTech",
+    "youtube": "youtube.com"
+  },
+  "Partner": [
+    {
+      "img": "img/testimonials/ab-ovo-logo-with-pay-off.webp",
+      "title": "Ab-ovo",
+      "text": "Ab-ovo recognize the businesses we serve are continuously transforming and Ab Ovo has an unwavering commitment to help organizations in this transformation. Also living in a circular economy/environment that needs our help."
+    },
+    {
+      "img": "img/testimonials/images.JPG",
+      "title": "JNPT",
+      "text": "JNPT is committed to enhancing the efficiency and sustainability of port operations through innovative solutions."
+    }
+  ],
+  "TeamMember": [
+    {
+      "Name": "Jayant Kohale",
+      "Designation": "CEO",
+      "Linkedin": "https://www.linkedin.com/in/jayant-kohale-6696182a/",
+      "Tweeter": "https://x.com/AmeiseTech",
+      "Image": "img/team/jayant kohale.jpg"
+    },
+    {
+      "Name": "Fun Activites",
+      "Designation": "img/portfolio/01-large.jpg",
+      "Linkedin": "img/portfolio/01-large.jpg",
+      "Tweeter": "img/portfolio/01-large.jpg",
+      "Image": "img/portfolio/01-small.jpg"
+    },
+    {
+      "Name": "Fun Activites",
+      "Designation": "img/portfolio/01-large.jpg",
+      "Linkedin": "img/portfolio/01-large.jpg",
+      "Tweeter": "img/portfolio/01-large.jpg",
+      "Image": "img/portfolio/01-small.jpg"
+    },
+    {
+      "Name": "Fun Activites",
+      "Designation": "img/portfolio/01-large.jpg",
+      "Linkedin": "img/portfolio/01-large.jpg",
+      "Tweeter": "img/portfolio/01-large.jpg",
+      "Image": "img/portfolio/01-small.jpg"
+    },
+    {
+      "Name": "Fun Activites",
+      "Designation": "img/portfolio/01-large.jpg",
+      "Linkedin": "img/portfolio/01-large.jpg",
+      "Tweeter": "img/portfolio/01-large.jpg",
+      "Image": "img/portfolio/01-small.jpg"
+    },
+    {
+      "Name": "Fun Activites",
+      "Designation": "img/portfolio/01-large.jpg",
+      "Linkedin": "img/portfolio/01-large.jpg",
+      "Tweeter": "img/portfolio/01-large.jpg",
+      "Image": "img/portfolio/01-small.jpg"
+    }
+  ]
+}

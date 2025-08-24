@@ -1,0 +1,7 @@
+/node_modules
+/build
+/.cache
+*.mov
+*.mp4
+*.avi
+*.mkv

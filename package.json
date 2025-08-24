@@ -1,0 +1,60 @@
+{
+  "name": "React-Ameisetec",
+  "private": true,
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.7",
+    "@react-jvectormap/core": "^1.0.4",
+    "@react-jvectormap/world": "^1.1.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@trendyol-js/react-carousel": "^3.0.3",
+    "aos": "^2.3.4",
+    "d3-geo": "^3.1.1",
+    "emailjs-com": "^2.6.4",
+    "framer-motion": "^12.23.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-modal": "^3.16.3",
+    "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1",
+    "react-simple-maps": "^3.0.0",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1",
+    "smooth-scroll": "^16.1.3",
+    "swiper": "^11.2.10",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.12"
+  }
+}
