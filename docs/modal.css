@@ -1,0 +1,27 @@
+/* modal.css */
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  overflow-y: auto; /* allow scroll if modal is tall */
+}
+
+.modal-container {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;   /* keeps modal from stretching too wide */
+  max-height: 90vh;   /* prevents cutoff on small screens */
+  overflow-y: auto;   /* scroll inside if needed */
+  box-sizing: border-box;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+}

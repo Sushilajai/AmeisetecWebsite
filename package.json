@@ -1,6 +1,7 @@
 {
   "name": "React-Ameisetec",
   "private": true,
+  "homepage": "https://sushilajai.github.io/AmeisetecWebsite",
   "dependencies": {
     "@react-google-maps/api": "^2.20.7",
     "@react-jvectormap/core": "^1.0.4",
