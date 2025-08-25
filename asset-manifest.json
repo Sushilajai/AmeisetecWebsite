@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AmeisetecWebsite/static/css/main.f75a8b2f.css",
+    "main.js": "/AmeisetecWebsite/static/js/main.8aa201ab.js",
+    "index.html": "/AmeisetecWebsite/index.html",
+    "main.f75a8b2f.css.map": "/AmeisetecWebsite/static/css/main.f75a8b2f.css.map",
+    "main.8aa201ab.js.map": "/AmeisetecWebsite/static/js/main.8aa201ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75a8b2f.css",
+    "static/js/main.8aa201ab.js"
+  ]
+}
